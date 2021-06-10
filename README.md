@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Workshops**
 
-- 📝 Checkout my website [https://freshlancee.blogspot.com](https://freshlancee.blogspot.com)
+- 📝 Checkout my website [Freshlance](https://freshlancee.blogspot.com)
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **hemantmanjhi216@gmail.com**
 
-- 📄 My Youtube Channel [https://www.youtube.com/c/HEMANTMANJHI](https://www.youtube.com/c/HEMANTMANJHI)
+- 📄 My Youtube Channel [Hemant Manjhi](https://www.youtube.com/c/HEMANTMANJHI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/hemant-manjhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-manjhi" height="30" width="40" /></a>
 <a href="https://fb.com/heyman021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyman021" height="30" width="40" /></a>
 <a href="https://instagram.com/heyman_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyman_021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/hemantmanjhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/hemantmanjhi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/HEMANTMANJHI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/hemantmanjhi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hemantmanjhi216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemantmanjhi216" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hemantmanjhi216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemantmanjhi216" height="30" width="40" /></a>
 </p>
