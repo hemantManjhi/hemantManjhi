@@ -10,7 +10,7 @@
 
 - 📝 Checkout my website [Freshlance](https://freshlancee.blogspot.com)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android & SQL**
 
 - 📫 How to reach me **hemantmanjhi216@gmail.com**
 
