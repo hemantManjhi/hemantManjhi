@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantmanjhi&label=Profile%20views&color=0e75b6&style=flat" alt="hemantmanjhi" /> </p>
 
-- 🔭 I’m currently working as a **Associate Software Engineer at Accenture**
+- 🔭 I’m currently working as an **Associate Software Engineer at Accenture**
 
 - 👨‍💻 I am passionate about **Android, Web & SQL development**
 
